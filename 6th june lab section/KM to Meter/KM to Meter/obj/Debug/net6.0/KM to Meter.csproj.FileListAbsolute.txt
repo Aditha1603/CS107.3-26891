@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\bin\Debug\net6.0\KM to Meter.exe
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\bin\Debug\net6.0\KM to Meter.deps.json
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\bin\Debug\net6.0\KM to Meter.runtimeconfig.json
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\bin\Debug\net6.0\KM to Meter.dll
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\bin\Debug\net6.0\KM to Meter.pdb
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\obj\Debug\net6.0\KM to Meter.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\obj\Debug\net6.0\KM to Meter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\obj\Debug\net6.0\KM to Meter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\obj\Debug\net6.0\KM to Meter.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\obj\Debug\net6.0\KM to Meter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\obj\Debug\net6.0\KM to Meter.dll
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\obj\Debug\net6.0\refint\KM to Meter.dll
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\obj\Debug\net6.0\KM to Meter.pdb
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\obj\Debug\net6.0\KM to Meter.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\6th june Lab\KM to Meter\KM to Meter\obj\Debug\net6.0\ref\KM to Meter.dll
